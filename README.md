@@ -9,7 +9,7 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/aydan-namugera
+[linkedin]: [https://linkedin.com/in/aydan-namugera](https://www.linkedin.com/in/aydan-namugera-4a7728126/)
 <!--
 **Ayce-Prophet/Ayce-Prophet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
