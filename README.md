@@ -1,4 +1,4 @@
-<h1>Hi, Hello I'm Aydan, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, Hello I'm Aydan, in <a href="https://linkedin.com/in/aydan-namugera-4a7728126/">IT Support</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
